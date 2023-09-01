@@ -1,7 +1,9 @@
-# TravelerApp - Vacation and Excursion Management App
+# Traveler App - Vacation and Excursion Management App
 
+<img src="Traveler App-photo.png">
+<img src="TravelerApp-photo2.png">
 ## Introduction
-TravelerApp is a mobile application designed to help users manage their vacations and excursions efficiently. With TravelerApp, users can easily organize their travel plans, view vacation details, add new vacations and excursions, and keep track of all their travel adventures in one place.
+Traveler App is a mobile application designed to help users manage their vacations and excursions efficiently. With Traveler App, users can easily organize their travel plans, view vacation details, add new vacations and excursions, and keep track of all their travel adventures in one place.
 
 This app is developed using Java and Android SDK, utilizing the Room Persistence Library for local database management and RecyclerView to display lists of vacations and excursions. The user interface is designed to be intuitive and user-friendly, providing a seamless experience for managing travel plans.
 
@@ -13,14 +15,14 @@ This app is developed using Java and Android SDK, utilizing the Room Persistence
 - **Responsive Design:** Enjoy a responsive and visually appealing user interface across different devices.
 
 ## Getting Started
-To get started with TravelerApp, follow these steps:
+To get started with Traveler App, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
 3. Build and run the app on an Android emulator or physical device.
 
 ## Dependencies
-TravelerApp uses the following major dependencies:
+Traveler App uses the following major dependencies:
 
 - Room Persistence Library: To manage local database operations.
 - RecyclerView: To display lists of vacations and excursions efficiently.
@@ -31,7 +33,7 @@ TravelerApp uses the following major dependencies:
 For a complete list of dependencies, check the `build.gradle` file.
 
 ## Contributing
-Contributions to TravelerApp are welcome! If you find any bugs or have suggestions for new features, please feel free to open an issue or submit a pull request.
+Contributions to Traveler App are welcome! If you find any bugs or have suggestions for new features, please feel free to open an issue or submit a pull request.
 
 ## APK Key
 Password Western123
