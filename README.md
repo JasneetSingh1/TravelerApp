@@ -1,7 +1,8 @@
 # Traveler App - Vacation and Excursion Management App
 
-<img src="Traveler App-photo.png">
+
 <img src="TravelerApp-photo2.png">
+
 ## Introduction
 Traveler App is a mobile application designed to help users manage their vacations and excursions efficiently. With Traveler App, users can easily organize their travel plans, view vacation details, add new vacations and excursions, and keep track of all their travel adventures in one place.
 
